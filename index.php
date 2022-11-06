@@ -10,4 +10,7 @@
 //gabungan mencetak dengan variabe; 
  echo "Selamat Datang $nama, sekarang mengikuti program $program, berusia $usia"
 
+
+
+ 
 ?>
